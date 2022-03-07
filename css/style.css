@@ -298,7 +298,8 @@ header ul>li>ul>li>a::before{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 35%;
+    width: 38%;
+    min-width: 315px;
     height: 100%;
     padding: 20px;
 }
